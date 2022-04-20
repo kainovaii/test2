@@ -244,7 +244,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 18288340,
-                        "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
+                         "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
@@ -430,7 +430,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt"
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
                     }
                 },
                 {
@@ -441,13 +441,11 @@
                         "size": 84,
                         "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat"
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat" 
                     }
                 }
             ]
-        }
-    ]
-},        
+        },        
         {
             "id": "WesterosCraftTest-1.12.2",
             "name": "WesterosCraft 1.12.2 Test Server",
@@ -908,3 +906,5 @@
                 }
             ]
         }
+    ]
+}
