@@ -11,10 +11,10 @@
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.12.2",
-            "name": "WesterosCraft 1.12.2 Production Server",
+            "id": "SyperLauncher-1.12.2",
+            "name": "SyperLauncher 1.12.2 Production Server",
             "description": "New 1.12.2 production server.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "icon": "https://i.imgur.com/ny1LINh.png",
             "version": "4.6.5",
             "address": "mc.westeroscraft.com:25565",
             "minecraftVersion": "1.12.2",
@@ -430,7 +430,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt"
                     }
                 },
                 {
@@ -441,11 +441,11 @@
                         "size": 84,
                         "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat"
                     }
                 }
             ]
-        },        
+        },
         {
             "id": "WesterosCraftTest-1.12.2",
             "name": "WesterosCraft 1.12.2 Test Server",
@@ -890,7 +890,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt"
                     }
                 },
                 {
@@ -901,7 +901,7 @@
                         "size": 87,
                         "MD5": "64dc1db90935997f07dfac422206f1de",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat"
                     }
                 }
             ]
