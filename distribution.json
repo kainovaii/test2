@@ -17,7 +17,7 @@
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
             "version": "4.6.5",
             "address": "play.station47.net:25565",
-            "minecraftVersion": "1.12.2",
+            "minecraftVersion": "1.18.2",
             "discord": {
                 "shortId": "1.12.2 Production Server",
                 "largeImageText": "WesterosCraft 1.12.2 Production Server",
@@ -445,7 +445,7 @@
                     }
                 }
             ]
-        },        
+        },
         {
             "id": "WesterosCraftTest-1.12.2",
             "name": "WesterosCraft 1.12.2 Test Server",
@@ -890,7 +890,7 @@
                     "artifact": {
                         "size": 1973,
                         "path": "options.txt",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt"
                     }
                 },
                 {
@@ -901,7 +901,7 @@
                         "size": 87,
                         "MD5": "64dc1db90935997f07dfac422206f1de",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat"
                     }
                 }
             ]
