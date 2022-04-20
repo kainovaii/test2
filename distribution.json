@@ -16,7 +16,7 @@
             "description": "New 1.12.2 production server.",
             "icon": "https://i.imgur.com/ny1LINh.png",
             "version": "4.6.5",
-            "address": "mc.westeroscraft.com:25565",
+            "address": "play.station47.net:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Production Server",
