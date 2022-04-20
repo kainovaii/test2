@@ -12,9 +12,9 @@
     "servers": [
         {
             "id": "SyperCraft-1.12.2",
-            "name": "SyperCraft 1.12.2 Production Server",
-            "description": "New 1.12.2 production server.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "name": "SyperCraft 1.12.2 Test 1.1",
+            "description": "New 1.12.2  Test 1.1",
+            "icon": "https://raw.githubusercontent.com/kainovaii/test2/main/LogoGithub.png",
             "version": "4.6.5",
             "address": "play.station47.net:25565",
             "minecraftVersion": "1.12.2",
