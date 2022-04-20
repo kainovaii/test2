@@ -1,9 +1,9 @@
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "966433306314964992",
-        "smallImageText": "sypercraft",
-        "smallImageKey": "gem"
+        "clientId": "385581240906022916",
+        "smallImageText": "WesterosCraft",
+        "smallImageKey": "seal-circle"
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -11,9 +11,9 @@
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "SyperCraft-1.12.2",
-            "name": "SyperCraft 1.12.2 Test 1.1",
-            "description": "New 1.12.2  Test 1.1",
+            "id": "SyperLauncher-1.12.2",
+            "name": "Syper Launcher test 1.1",
+            "description": "New 1.12.2 production server.",
             "icon": "https://raw.githubusercontent.com/kainovaii/test2/main/LogoGithub.png",
             "version": "4.6.5",
             "address": "play.station47.net:25565",
@@ -244,7 +244,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 18288340,
-                        "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
+                         "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
@@ -680,7 +680,7 @@
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 18288340,
-                        "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
+                         "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
