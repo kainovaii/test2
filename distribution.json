@@ -238,27 +238,7 @@
                         }
                     ]
                 },
-                {
-                    "id": "com.westeroscraft:westerosblocks:4.2.1-111",
-                    "name": "WesterosBlocks",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 18288340,
-                         "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/WesterosBlocks.jar"
-                    }
-                },
-                {
-                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-20",
-                    "name": "WesterosCraft Resource Pack",
-                    "type": "File",
-                    "artifact": {
-                        "size": 53240128,
-                        "MD5": "d26483bfc73b71af57499f4ac8932e7c",
-                        "path": "resourcepacks/WesterosCraft.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/resourcepacks/WesterosCraft.zip"
-                    }
-                },
+
                 {
                     "id": "net.optifine:optifine:1.12.2_HD_U_F5",
                     "name": "Optifine",
